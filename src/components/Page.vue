@@ -1,6 +1,5 @@
 <template>
   <div class="page">
-
   </div>
 </template>
 
@@ -12,4 +11,4 @@ export default {
 
 <style scoped lang="scss">
 
-</style>
+    </style>
