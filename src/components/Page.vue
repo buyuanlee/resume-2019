@@ -86,10 +86,32 @@
 					<div class="job content-item">
 						<span class="item-title">工作经历</span>
 						<el-timeline>
+							<el-timeline-item timestamp="2014/04-2015/10" placement="top">
+								<el-card class="card">
+									<h4>公司名称</h4>
+									<span>上海欧雅环保科技有限公司</span>
+									<h4>职位</h4>
+									<span>店铺运营（京东运营）</span><br>
+								</el-card>
+							</el-timeline-item>
+						</el-timeline>
+						<el-timeline>
+							<el-timeline-item timestamp="2016/01-2017/09" placement="top">
+								<el-card class="card">
+									<h4>公司名称</h4>
+									<span>杭州网维科技有限公司</span>
+									<h4>职位</h4>
+									<span>天猫运营</span><br>
+								</el-card>
+							</el-timeline-item>
+						</el-timeline>
+						<el-timeline>
 							<el-timeline-item timestamp="2018/08/01-2019/08/15" placement="top">
 								<el-card class="card">
 									<h4>公司名称</h4>
 									<span>杭州去打球文化创意有限公司</span>
+									<h4>职位</h4>
+									<span>WEB前端</span><br>
 									<h4>工作职责</h4>
 									<span>主要负责公司的web端业务、微信小程序与微信H5相关页面</span><br>
 									<span>1.从搭建到上线，全程参与公司的商家后台管理系统的业务</span><br>
