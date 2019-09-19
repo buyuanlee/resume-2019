@@ -179,13 +179,30 @@
 									<a href="https://github.com/buyuanlee/AloeUI" target="_blank"><b class="highlight">点击查看源码</b></a>
 								</el-card>
 							</el-timeline-item>
+							<!--							canvas画板-->
+							<el-timeline-item timestamp="canvas画板" placement="top">
+								<el-card class="card">
+									<h4>项目介绍</h4>
+									<p>利用<span class="highlight">HTML5</span>的<span class="highlight">canvas</span>API,
+									配合原生的 <span class="highlight">JavaScript</span>制作的一个简易画板工具。
+									主要功能是可以在画板上写字、涂鸦。 其他功能包括切换画笔颜色、调整画笔粗细、橡皮擦功能、清除全部功能以图片及保存到本地。
+									</p>
+									<h4>项目技术栈</h4>
+									<span>项目使用<b class="highlight">HTML5</b>的新特性</span><br>
+									<span>项目使用<b class="highlight">原生JS</b>开发</span><br>
+									<span>代码使用了<b class="highlight">ES6</b>的相关语法</span><br>
+									<h4>相关链接</h4>
+									<a href="https://buyuanlee.github.io//canvas/index.html" target="_blank"><b class="highlight">点击预览页面</b></a><br>
+									<a href="https://github.com/buyuanlee/canvas" target="_blank"><b class="highlight">点击查看源码</b></a>
+								</el-card>
+							</el-timeline-item>
 						</el-timeline>
 					</div>
 					<!--					自我评价-->
 					<div class="about content-item">
 						<span class="item-title">自我评价</span>
 						<el-timeline>
-							<el-timeline-item timestamp="个人常用技术栈" placement="top">
+							<el-timeline-item timestamp="自我评价" placement="top">
 								<el-card class="card">
 									<p>兴趣驱动，学习能力强，自我管理能力强，渴望在前端领域更好的发展，享受coding</p>
 								</el-card>
