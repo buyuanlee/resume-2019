@@ -179,7 +179,7 @@
 									<a href="https://github.com/buyuanlee/AloeUI" target="_blank"><b class="highlight">点击查看源码</b></a>
 								</el-card>
 							</el-timeline-item>
-							<!--							canvas画板-->
+<!--							canvas画板-->
 							<el-timeline-item timestamp="canvas画板" placement="top">
 								<el-card class="card">
 									<h4>项目介绍</h4>
@@ -194,6 +194,21 @@
 									<h4>相关链接</h4>
 									<a href="https://buyuanlee.github.io//canvas/index.html" target="_blank"><b class="highlight">点击预览页面</b></a><br>
 									<a href="https://github.com/buyuanlee/canvas" target="_blank"><b class="highlight">点击查看源码</b></a>
+								</el-card>
+							</el-timeline-item>
+<!--							社区论坛重构-->
+							<el-timeline-item timestamp="Vue重构社区论坛" placement="top">
+								<el-card class="card">
+									<h4>项目介绍</h4>
+									<p>
+										<b class="highlight">项目介绍:</b>利用 <span class="highlight">VueJS</span>及相关技术栈，利用CNode官方API，
+										仿写了一个CNode社区。项目使用<span class="highlight">Vue-Cli2</span>进行项目搭建，
+										使用 <span class="highlight">component</span>的功能， 将页面分为头部、列表、文章内容、侧边栏、用户信息和分页器等组件。
+										使用<span class="highlight">Vue-Router</span>对项目进行路由管理,使用<span class="highlight">webpack</span>打包
+									</p>
+									<h4>相关链接</h4>
+									<a href="https://buyuanlee.github.io/cnode-demo/dist/#/" target="_blank"><b class="highlight">点击预览页面</b></a><br>
+									<a href="https://github.com/buyuanlee/cnode-demo" target="_blank"><b class="highlight">点击查看源码</b></a>
 								</el-card>
 							</el-timeline-item>
 						</el-timeline>
